@@ -63,6 +63,9 @@ link{
 
 h4{
     color: white;
+    border-radius: 8px;
+    border: solid 8px;
+    color: cyan
 }
 
 h2{
